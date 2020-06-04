@@ -1,4 +1,2 @@
 # Bitcoin-memes
-[Yegor](https://github.com/unkownyp/Bitcoin-memes/edit/master/README.md)
-## Heading2
-### Heading3
+Hey dudes, my name is Yegor. I'm creating memes for the Bitcoin community. You can follow me on twitter (https://twitter.com/yegorpetr0v)
