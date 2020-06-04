@@ -1,2 +1,2 @@
 # Bitcoin-memes
-[Yegor](twitter.com)
+[Yegor](https://github.com/unkownyp/Bitcoin-memes/edit/master/README.md)
